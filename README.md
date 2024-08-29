@@ -7,6 +7,8 @@ DURATION: AUGUST TO SEPTEMBER 2024
 
 OVERVIEW OF THE PROJECT
 PROJECT : Develop a tool to assess the strength of passwords entered by users. Implement algorithms to analyze factors such as length, complexity, and uniqueness to provide feedback on password strength.
+![Screenshot 2024-08-23 194402](https://github.com/user-attachments/assets/5bd386ba-c917-4794-8d40-3c3cdb5cd012)
+
 OBJECTIVE
 The objective of this project is to develop a software tool that evaluates the strength of passwords entered by users. The tool should implement algorithms to analyze key factors such as length, complexity, and uniqueness.
 
